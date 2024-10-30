@@ -6,8 +6,8 @@ labels: ''
 assignees: ''
 ---
 
-**Problem**
-- [Describe the problem or issue in detail]
+## Problem description
+<!Describe the problem or issue in detail>
 
-**Solution**
-- [Propose a solution or suggest steps to resolve the issue]
+## Proposed solution
+<!Propose a solution or suggest steps to resolve the issue>
